@@ -1,8 +1,8 @@
 <h1 align="center">
 <img width="40" valign="bottom" src="https://ultimatecourses.com/static/icons/rxjs.svg">
-RxJS Starter Project
+Clay's RXJS Project
 </h1>
-<h4 align="center">Starter Project for the Ultimate Courses RxJS Basics and Masterclass courses.</h4>
+<h4 align="center">Project for the Ultimate Courses RxJS Basics and Masterclass courses.</h4>
 
 ---
 
@@ -11,5 +11,3 @@ RxJS Starter Project
 </div>
 
 ---
-
-Members, please refer to the Setup Instructions inside the course to get started!
